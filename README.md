@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=NIROSHINI&fontSize=85&fontColor=ffffff&color=0:6C63FF,50:9B5DE5,100:00D4FF&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6C63FF,50:9B5DE5,100:00D4FF&text=NIROSHINI&fontSize=75&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 
-# ✨ SACHITHANANTHAN NIROSHINI
+<h1> ✨ SACHITHANANTHAN NIROSHINI </h1>
 
-### UI/UX DESIGNER  •  SOFTWARE DEVELOPER  •  AI ENTHUSIAST
+<h2> UI/UX DESIGNER | SOFTWARE DEVELOPER | AI ENTHUSIAST </h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=900&color=B794F6&center=true&vCenter=true&width=750&lines=Welcome+to+my+Digital+World+%F0%9F%92%9C;Designing+Beautiful+Experiences+%F0%9F%8E%A8;Building+Creative+Solutions+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Welcome+to+my+Digital+World!+%F0%9F%92%9C;Designing+Beautiful+Experiences+%F0%9F%8E%A8;Building+Creative+Solutions+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%E2%9C%A8"/>
 
 <br/>
 
 <a href="https://niroshiniportfolio.vercel.app">
-<img src="https://img.shields.io/badge/MY_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/niroshini-sachithananthan-649581298/">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,15 +24,15 @@
 
 ---
 
-# 🌷 ABOUT ME
+<h1 align="center">🌷 ABOUT ME</h1>
 
-<img align="right" width="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🎓 **BSc (Hons) Information Technology Undergraduate**
 
-🏛️ Horizon Campus | Sri Lanka
+🏛️ Horizon Campus, Sri Lanka
 
-🎨 Passionate about **UI/UX Design** and creating beautiful user experiences.
+🎨 Passionate about **UI/UX Design** and creative digital experiences.
 
 💻 Interested in **Software Development** and building innovative applications.
 
@@ -42,45 +42,46 @@
 
 🤝 Open to internships, collaborations and exciting opportunities.
 
-⚡ *Learning, creating and growing one project at a time!*
+⚡ *Learning. Creating. Innovating. Growing.*
 
 <br clear="right"/>
 
 ---
 
-# 🎨 UI/UX & CREATIVE DESIGN
+<h1 align="center">🎨 UI/UX & CREATIVE DESIGN</h1>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,canva" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,canva"/>
 </p>
 
-# 💻 SOFTWARE DEVELOPMENT
+<h1 align="center">💻 SOFTWARE DEVELOPMENT</h1>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,cs,php,laravel" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,cs,php"/>
 </p>
 
-# 🤖 AI & DATA TECHNOLOGIES
+<h1 align="center">🤖 AI & DATA TECHNOLOGIES</h1>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,numpy,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,numpy,mysql,mongodb"/>
 </p>
 
-# 🛠️ TOOLS & TECHNOLOGIES
+<h1 align="center">🛠️ TOOLS & TECHNOLOGIES</h1>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,linux,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,linux,figma,jenkins"/>
 </p>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+<h1 align="center">🚀 FEATURED PROJECTS</h1>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛡️ Mail Guardian
+<h3>🛡️ Mail Guardian</h3>
+
 **Multi-Agent AI**
 
 AI-powered phishing and scam email detection using content analysis and link verification.
@@ -90,7 +91,8 @@ AI-powered phishing and scam email detection using content analysis and link ver
 </td>
 <td width="50%">
 
-### 🫁 Pneumonia Detection
+<h3>🫁 Pneumonia Detection</h3>
+
 **Explainable AI**
 
 Comparing Grad-CAM and LIME for explainable pneumonia detection using chest X-rays.
@@ -103,7 +105,8 @@ Comparing Grad-CAM and LIME for explainable pneumonia detection using chest X-ra
 <tr>
 <td width="50%">
 
-### 💊 Pulse Health Tracker
+<h3>💊 Pulse Health Tracker</h3>
+
 **Android Application**
 
 Health tracking and daily medication reminder application.
@@ -113,20 +116,21 @@ Health tracking and daily medication reminder application.
 </td>
 <td width="50%">
 
-### 🎬 Movie Ticket Booking
+<h3>🎬 Movie Ticket Booking</h3>
+
 **Desktop Application**
 
-Movie browsing, availability checking and ticket booking system.
+Movie browsing, availability and ticket booking system.
 
 `C#` `.NET` `Visual Studio`
 
 </td>
 </tr>
-
 <tr>
 <td colspan="2">
 
-### 🚌 JourneyX
+<h3>🚌 JourneyX</h3>
+
 **Intelligent Public Transport Journey Planning**
 
 A public transport journey planning project developed for BuildX 0.1 Hackathon.
@@ -137,11 +141,11 @@ A public transport journey planning project developed for BuildX 0.1 Hackathon.
 
 ---
 
-# 📊 GITHUB ANALYTICS
+<h1 align="center">📊 GITHUB ANALYTICS</h1>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Niroshini2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Niroshini2002&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Niroshini2002&theme=tokyonight&hide_border=true"/>
 
@@ -153,17 +157,17 @@ A public transport journey planning project developed for BuildX 0.1 Hackathon.
 
 ---
 
-# 🏆 GITHUB TROPHIES
+<h1 align="center">🏆 GITHUB TROPHIES</h1>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Niroshini2002&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Niroshini2002&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-# 💭 DAILY DEVELOPER QUOTE
+<h1 align="center">💭 DAILY DEVELOPER QUOTE</h1>
 
 <div align="center">
 
@@ -175,11 +179,11 @@ A public transport journey planning project developed for BuildX 0.1 Hackathon.
 
 <div align="center">
 
-### 💜 THANK YOU FOR VISITING MY PROFILE!
+<h2>💜 THANK YOU FOR VISITING MY PROFILE!</h2>
 
-**Keep Learning. Keep Creating. Keep Growing.**
+<h3>Keep Learning • Keep Creating • Keep Growing</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9B5DE5,100:00D4FF&height=120&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9B5DE5,100:00D4FF&height=120&section=footer"/>
 
 <img src="https://komarev.com/ghpvc/?username=Niroshini2002&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
 
